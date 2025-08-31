@@ -37,7 +37,7 @@ Android Calculator App (Java)
 
 The Android Calculator App is a lightweight mobile application developed using Java in Android Studio. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app is designed with a simple user interface, suitable for beginners and educational use.
 
-❗ Problem Addressing
+##❗ Problem Addressing
 
 Many default calculator apps are either too complex or too basic. This project aims to:
 
@@ -47,7 +47,7 @@ Help beginners understand the structure of Android apps using Java.
 
 Serve as a foundation for future enhancements like scientific functions or UI improvements.
 
-💻 Platform
+##💻 Platform
 
 Development Environment: Android Studio
 
@@ -55,15 +55,16 @@ Operating System: Android (API level 21+)
 
 Language: Java
 
-Target Devices: Android smartphones and tablets
 
-🔄 Front-End / Back-End Support
+##Target Devices: Android smartphones and tablets
+
+##🔄 Front-End / Back-End Support
 Layer	Description
 Front-End	Built using XML layout in Android Studio (LinearLayout) for the user interface.
 Back-End	Java code handles input validation, calculation logic, and result output. No external databases or servers involved (local-only app).
-⚙️ Functionality
+##⚙️ Functionality
 
-Input two numbers using EditText fields
+## Input two numbers using EditText fields
 
 Tap buttons to perform:
 
@@ -75,7 +76,7 @@ Tap buttons to perform:
 
 ➗ Division
 
-Displays result in a TextView
+Displays the result in a TextView
 
 Prevents crashes on empty or invalid inputs
 
