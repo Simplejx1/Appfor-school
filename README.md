@@ -1,4 +1,4 @@
-# Appfor-school
+# ANDRIOD_CALC
 
 This is a simple calculator app built using Android Studio. It performs basic arithmetic operations including:
 
