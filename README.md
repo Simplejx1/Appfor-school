@@ -25,7 +25,7 @@ This is a simple calculator app built using Android Studio. It performs basic ar
 
 ## 🧪 Technologies Used
 
-- Language: Java or Kotlin
+- Language: Java
 - IDE: Android Studio
 - Layout: XML (LinearLayout)
 
