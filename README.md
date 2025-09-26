@@ -81,3 +81,83 @@ Displays the result in a TextView
 Prevents crashes on empty or invalid inputs
 
 Handles divide-by-zero cases gracefully
+Project Outline – Week 4 Update
+
+Project Name: ANDRIOD_CALC – Android Calculator App (Java)
+Course: Module 6 – Project Activity Submission 3
+
+Project Overview
+
+The Android Calculator App is a lightweight mobile application developed using Java in Android Studio. It performs basic arithmetic operations (addition, subtraction, multiplication, division) while providing a simple, user-friendly interface. The app serves as both a functional tool and an educational resource for understanding Android development.
+
+Current Features
+
+Input two numbers using EditText fields
+
+Perform operations via dedicated buttons: ➕ ➖ ✖️ ➗
+
+Display result in a TextView
+
+Handles divide-by-zero errors gracefully
+
+Clears input fields and resets output with a Clear button
+
+Simple LinearLayout XML design with responsive spacing
+
+Week 4 Update (Changes Since Week 3)
+
+Added Clear button functionality to reset inputs and results.
+
+Improved input validation with Toast messages for empty fields or invalid numbers.
+
+Restructured the layout for better spacing and usability.
+
+Updated README.md with clearer run instructions and educational focus.
+
+Finalized Gradle dependencies and ensured project builds correctly on API 21+.
+
+Version Changelog
+
+Version 0.1 (Week 2 – Initial Outline)
+
+Defined project scope (basic calculator)
+
+Set up Android Studio project structure
+
+Established README with project purpose and features
+
+Version 0.2 (Week 3 – Activity Submission 2)
+
+Implemented core arithmetic operations (Add, Subtract, Multiply, Divide)
+
+Added basic XML layout with EditText, Button, and TextView
+
+Initial error handling for divide-by-zero
+
+Version 0.3 (Week 4 – Activity Submission 3)
+
+Added Clear button functionality
+
+Improved input validation (handles empty/invalid input gracefully)
+
+Updated UI layout for better spacing and readability
+
+Expanded README with clearer run/setup instructions
+
+Planned (Week 5–7)
+
+Week 5: Enhance UI design (colors, styles, constraints for better responsiveness)
+
+Week 6: Add additional features (optional scientific functions, percentage, square root)
+
+Week 7: Finalize project, push to GitHub Classroom, ensure README is fully updated with screenshots and changelog
+
+Next Steps
+
+Push the updated project code (v0.3) to GitHub Classroom.
+
+Begin refining UI with styles and themes (Week 5 goal).
+
+Collect screenshots for README documentation.
+
+Prepare final submission package for Module 8.
